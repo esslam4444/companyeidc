@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380162677855",
+    "project_id": "companyeidc",
+    "storage_bucket": "companyeidc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380162677855:android:1721c4bc5822bad4be4fea",
+        "android_client_info": {
+          "package_name": "ly.com.componyeidc.companyeidc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_wbQ2JVYoLTc5y8D33o5ocPq0GmNQYXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
